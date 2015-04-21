@@ -22,3 +22,7 @@ The faultinder3a.php program is drawn from
 
 The Python programs are run with version 2.7 Python.
 
+The extension-notes folders contains a revised version of 
+fuzzyalpha.py that can work with some other dictionaries.  The readme.txt
+program in that file indicates the execution sequence for the other
+specialized dictionaries.
